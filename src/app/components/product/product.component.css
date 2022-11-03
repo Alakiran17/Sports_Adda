@@ -1,0 +1,30 @@
+
+#image{
+    width:80%;
+    height:80%;
+    margin-top:2px;
+    padding:5px 5px;
+}
+#category{
+    text-align: center;
+}
+.row{
+    width:100%;
+    border-radius: 5px;
+    border-style:ridge;
+    margin-left:2px;
+    border-color: ivory;
+    margin-top:5px;
+    
+}
+#column{
+    margin-top:5px;
+    margin-top:2px;
+    padding:5px;
+}
+#column:hover{
+    background-color:honeydew;
+    
+
+}
+
